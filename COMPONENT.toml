@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-apparmor"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-apparmor component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
